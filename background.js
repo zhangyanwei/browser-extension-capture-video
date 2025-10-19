@@ -1,6 +1,6 @@
 chrome.action.onClicked.addListener((tab) => {
-    // Send message to content script to start capture UI
-    chrome.tabs.sendMessage(tab.id, { type: 'START_CAPTURE_UI' });
+    // Send message to content script to toggle the capture UI
+    chrome.tabs.sendMessage(tab.id, { type: 'TOGGLE_CAPTURE_UI' });
 });
 
 // A map to store object URLs that need to be revoked
