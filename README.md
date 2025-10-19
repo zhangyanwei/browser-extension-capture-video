@@ -68,14 +68,6 @@ Video Capture is a powerful browser extension for Chrome and Edge that allows us
 We value your input! Report issues or suggest improvements by contacting:
 - WeChat: **miangwei**
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the developer.
